@@ -13,7 +13,9 @@ O projeto foi desenvolvido no curso de Lógica de Programação III do curso Sta
 </h3>
 
 
+
 O app foi desenvolvido em java, utilizando seus recursos secundários (Java Swing) para criação do layout e o banco de dados utilizado foi o MySql.
+
 
 
 
@@ -28,12 +30,17 @@ O app foi desenvolvido em java, utilizando seus recursos secundários (Java Swin
 
 
 
+
+
+
 <h4> Imagem 2: Adicionando uma tarefa e suas informações dentro de um projeto
 </h4>
 
 
 
 ![addtarefa](https://user-images.githubusercontent.com/107159167/184231661-b65f9a56-9756-46a6-b36c-212e476dc586.png)
+
+
 
 
 
