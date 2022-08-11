@@ -22,8 +22,8 @@ O app foi desenvolvido em java, utilizando seus recursos secundários (Java Swin
 <h4> Imagem 1: Adicionando um novo projeto
 
 
-![](C:\workspace\toDoApp\toDoAppIcones\addprojeto.png)
 
+![addprojeto](https://user-images.githubusercontent.com/107159167/184231492-68478f88-ded4-4264-8789-e12f8b2364dc.png)
 
 
 
@@ -32,8 +32,8 @@ O app foi desenvolvido em java, utilizando seus recursos secundários (Java Swin
 </h4>
 
 
-![](C:\workspace\toDoApp\toDoAppIcones\addtarefa.png)
 
+![addtarefa](https://user-images.githubusercontent.com/107159167/184231661-b65f9a56-9756-46a6-b36c-212e476dc586.png)
 
 
 
@@ -41,7 +41,7 @@ O app foi desenvolvido em java, utilizando seus recursos secundários (Java Swin
 <h4> Imagem 3: Tela geral da aplicação onde ficam os projetos e as tarefas.
 
 
-![](C:\workspace\toDoApp\toDoAppIcones\interfacegeral.png)
+![interfacegeral](https://user-images.githubusercontent.com/107159167/184231796-7042ed8c-9fa7-4cb9-abc7-445c61392ac2.png)
 
 
 
